@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Killerp51
+- 👀 I’m interested in learning more about programming. 
+- 🌱 I’m currently learning Python for for web apps
+- 💞️ I’m looking to collaborate on projects open to programmers with limited experience. 
+- 📫 How to reach me sixbladesolutions@gmail.com
+- ⚡ Fun fact: I am a commercial rated pilot. 
